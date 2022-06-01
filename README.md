@@ -80,3 +80,7 @@ Utilizando uma amostra dos dados, podemos visualizar como o algoritmo realizou a
 ![](figures/model_example.png)
 
 # Análise de Clusters
+
+Os dados foram segmentados conforme a imagem abaixo.
+![](figures/pedidos_clusters.png)
+
