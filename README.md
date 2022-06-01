@@ -64,3 +64,7 @@ Como estratégia para a solução dos problemas, definimos as seguintes etapas:
 - Durante o horário de almoço, sobremesa e salada são os principais itens.
 - Durante o horário de jantar, há um grande aumento nos pedidos de sobremesa, pizza e bebida.
 ![](figures/P5.png)
+
+**P7. Quais os itens mais pedidos em cada localidade?**
+- Sobremesa é o principal item nos pedidos de todas as localidades.
+![](figures/P7.png)
