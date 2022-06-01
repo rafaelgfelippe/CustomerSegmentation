@@ -68,3 +68,13 @@ Como estratégia para a solução dos problemas, definimos as seguintes etapas:
 **P7. Quais os itens mais pedidos em cada localidade?**
 - Sobremesa é o principal item nos pedidos de todas as localidades.
 ![](figures/P7.png)
+
+# Modelagem Preditiva
+
+Para realizar a segmentação da base de clientes da Big Rango, optamos por utilizar o algoritmo *K-Means*, um dos mais utilizados para esse tipo de tarefa. 
+
+Através do método de *ELbow*, 3 foi definido como o número ideal de clusters para segmentar os clientes. 
+![](figures/Elbow.png)
+
+Utilizando uma amostra dos dados, podemos visualizar como o algoritmo realizou a segmentação para cada um dos clusters. 
+![](figures/model_example.png)
