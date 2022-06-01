@@ -127,3 +127,28 @@ Os dados foram segmentados conforme a imagem abaixo.
 **Recomendação para o Departamento de Marketing:**
 
 - Criar combos promocionais com o objetivo de aumentar o número de itens por pedido.
+
+# Conclusões Finais
+
+Para a realização da segmentação dos clientes da Big Rango utilizamos o algoritmo *K-means*.
+
+Atráves do método de Elbow, definimos que os dados deveriam ser segmentados em três clusters, foram eles:
+
+**Cluster 1:** clientes mais saudáveis; alto consumo de salada.
+**Cluster 2:** clientes que fazem pedidos em grandes quantidades; é o principal cluster para a empresa.
+**Cluster 3:** clientes que fazem pedidos próximos a meia noite; é o cluster mais equilibrado.
+
+Além das recomendações já feitas durante a análise, também geramos alguns insights interessantes para a empresa:
+
+- Maio foi o mês que teve o maior número de pedidos, enquanto fevereiro registrou o menor número.
+- Geralmente nos últimos dias dos meses há uma queda no número de pedidos.
+- As localidades 6 e 2 são as que mais geram pedidos, totalizando 28%.
+
+Depois de garantir uma excelente segmentação, a Big Rango já pode direcionar ações para melhorar a experiência de seus clientes, adotando estratégias e campanhas customizadas para cada grupo, e consequentemente impactando a sua lucratividade!
+
+# Autor
+
+Rafael Felippe  
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafaelfelippe/)
+
