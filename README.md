@@ -92,10 +92,38 @@ Os dados foram segmentados conforme a imagem abaixo.
 - Possui o menor número de pedidos (19%).
 - É o principal consumidor de salada.
 - Pizza e bebida somam apenas 7% do total dos pedidos.
-
-Pedidos são realizados essencialmente no horário de almoço.
+- Pedidos são realizados essencialmente no horário de almoço.
 
 **Recomendações para o Departamento de Marketing:**
 
 - Incluir mais opções de produtos saudáveis no cardápio, como lanches naturais, comidas veganas e chás, principalmente no horário de almoço, onde ocorre o maior número de pedidos desse segmento. Para o período noturno, onde esses clientes são menos presentes, oferecer esses novos produtos pode ser uma estratégia para aumentar as vendas nesse horário.
 - Criar promoções envolvendo os itens salada e sobremesa, como por exemplo: "Na compra da salada "X", ganhe uma sobremesa grátis".
+
+## Cluster 2
+![](figures/C2.png)
+
+**Principais Características do Cluster 2:**
+
+- É o principal cluster, possuindo 57% dos pedidos.
+- É o principal consumidor de pizza.
+- Pedidos de salada são praticamente nulos.
+- Pedidos são realizados em grandes quantidades e no período tarde/noite.
+
+**Recomendações para o Departamento de Marketing:**
+
+- Criar combos promocionais envolvendo sobremesa, pizza e bebida, pois são os itens mais consumidos do cluster.
+- Criar promoções para captar clientes com perfis parecidos. Como esse cluster tem um grande número de clientes consumindo o principal item do cardápio (pizza), provavelmente esse tipo de promoção atrairia mais clientes com perfil parecido.
+
+## Cluster 3
+![](figures/C3.png)
+
+**Principais Características do Cluster 3:**
+
+- Possui 25% dos pedidos.
+- É o cluster mais equilibrado em relação aos pedidos.
+- Pedidos são realizados em pequenas quantidades.
+- Alto número de pedidos por volta da meia noite.
+
+**Recomendação para o Departamento de Marketing:**
+
+- Criar combos promocionais com o objetivo de aumentar o número de itens por pedido.
