@@ -58,3 +58,9 @@ Como estratégia para a solução dos problemas, definimos as seguintes etapas:
 **P1. Qual o mês que teve o maior e o menor número de pedidos?**
 - Maio foi o mês que teve o maior número de pedidos, enquanto fevereiro registrou o menor número.
 ![](figures/P1.png)
+
+**P5. Quais são os itens mais pedidos por horário?**
+- Entre 0h e 1h os itens predominantes são sobremesa e pizza.
+- Durante o horário de almoço, sobremesa e salada são os principais itens.
+- Durante o horário de jantar, há um grande aumento nos pedidos de sobremesa, pizza e bebida.
+![](figures/P5.png)
