@@ -78,3 +78,5 @@ Através do método de *ELbow*, 3 foi definido como o número ideal de clusters 
 
 Utilizando uma amostra dos dados, podemos visualizar como o algoritmo realizou a segmentação para cada um dos clusters. 
 ![](figures/model_example.png)
+
+# Análise de Clusters
