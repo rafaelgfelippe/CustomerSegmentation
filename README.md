@@ -56,5 +56,5 @@ Como estratégia para a solução dos problemas, definimos as seguintes etapas:
 # TOP 3 Insights 
 
 **P1. Qual o mês que teve o maior e o menor número de pedidos?**
-Maio foi o mês que teve o maior número de pedidos, enquanto fevereiro registrou o menor número.
+- Maio foi o mês que teve o maior número de pedidos, enquanto fevereiro registrou o menor número.
 ![](figures/P1.png)
