@@ -130,13 +130,11 @@ Os dados foram segmentados conforme a imagem abaixo.
 
 # Conclusões Finais
 
-Para a realização da segmentação dos clientes da Big Rango utilizamos o algoritmo *K-means*.
+Para a realização da segmentação dos clientes da Big Rango utilizamos o algoritmo *K-means*. Atráves do método de Elbow, definimos que os dados deveriam ser segmentados em três clusters, foram eles:
 
-Atráves do método de Elbow, definimos que os dados deveriam ser segmentados em três clusters, foram eles:
-
-**Cluster 1:** clientes mais saudáveis; alto consumo de salada.
-**Cluster 2:** clientes que fazem pedidos em grandes quantidades; é o principal cluster para a empresa.
-**Cluster 3:** clientes que fazem pedidos próximos a meia noite; é o cluster mais equilibrado.
+- **Cluster 1:** clientes mais saudáveis; alto consumo de salada.
+- **Cluster 2:** clientes que fazem pedidos em grandes quantidades; é o principal cluster para a empresa.
+- **Cluster 3:** clientes que fazem pedidos próximos a meia noite; é o cluster mais equilibrado.
 
 Além das recomendações já feitas durante a análise, também geramos alguns insights interessantes para a empresa:
 
