@@ -52,3 +52,9 @@ Como estratégia para a solução dos problemas, definimos as seguintes etapas:
 - **6. Análise de Clusters:** iremos explorar os clusters com objetivo de identificar padrões e recomendar ações para a área de Marketing.
 
 - **7. Conclusões Finais:** por fim, entregaremos o resultado final do projeto.
+
+# TOP 3 Insights 
+
+**P1. Qual o mês que teve o maior e o menor número de pedidos?**
+Maio foi o mês que teve o maior número de pedidos, enquanto fevereiro registrou o menor número.
+![](figures/P1.png)
