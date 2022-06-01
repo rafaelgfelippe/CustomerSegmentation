@@ -84,3 +84,18 @@ Utilizando uma amostra dos dados, podemos visualizar como o algoritmo realizou a
 Os dados foram segmentados conforme a imagem abaixo.
 ![](figures/pedidos_clusters.png)
 
+## Cluster 1
+![](figures/C1.png)
+
+**Principais Características do Cluster 1:**
+
+- Possui o menor número de pedidos (19%).
+- É o principal consumidor de salada.
+- Pizza e bebida somam apenas 7% do total dos pedidos.
+
+Pedidos são realizados essencialmente no horário de almoço.
+
+**Recomendações para o Departamento de Marketing:**
+
+- Incluir mais opções de produtos saudáveis no cardápio, como lanches naturais, comidas veganas e chás, principalmente no horário de almoço, onde ocorre o maior número de pedidos desse segmento. Para o período noturno, onde esses clientes são menos presentes, oferecer esses novos produtos pode ser uma estratégia para aumentar as vendas nesse horário.
+- Criar promoções envolvendo os itens salada e sobremesa, como por exemplo: "Na compra da salada "X", ganhe uma sobremesa grátis".
