@@ -21,7 +21,7 @@ Em relação ao conjunto de dados, as seguintes informações foram disponibiliz
 - Os dados estão em formato estruturado e serão disponibilizados em um arquivo "csv".
 - A variável id_transacao possui o mesmo código para cada item dentro de um pedido.
 - Todos os pedidos são referentes ao ano de 2019.
-- A empresa não trabalha das 2 as 10 horas da manhã.
+- A empresa não trabalha das 2 às 10 horas da manhã.
 
 Além disso, também foi disponibilizado o dicionário de dados:
 
@@ -73,7 +73,7 @@ Como estratégia para a solução dos problemas, definimos as seguintes etapas:
 
 Para realizar a segmentação da base de clientes da Big Rango, optamos por utilizar o algoritmo *K-Means*, um dos mais utilizados para esse tipo de tarefa. 
 
-Através do método de *ELbow*, 3 foi definido como o número ideal de clusters para segmentar os clientes. 
+Através do método de *Elbow*, 3 foi definido como o número ideal de clusters para segmentar os clientes. 
 ![](figures/Elbow.png)
 
 Utilizando uma amostra dos dados, podemos visualizar como o algoritmo realizou a segmentação para cada um dos clusters. 
@@ -136,7 +136,7 @@ Atráves do método de Elbow, definimos que os dados deveriam ser segmentados em
 
 - **Cluster 1:** clientes mais saudáveis; alto consumo de salada.
 - **Cluster 2:** clientes que fazem pedidos em grandes quantidades; é o principal cluster para a empresa.
-- **Cluster 3:** clientes que fazem pedidos próximos a meia noite; é o cluster mais equilibrado.
+- **Cluster 3:** clientes que fazem pedidos próximos à meia noite; é o cluster mais equilibrado.
 
 Além das recomendações já feitas durante a análise, também geramos alguns insights interessantes para a empresa:
 
